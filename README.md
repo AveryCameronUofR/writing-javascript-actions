@@ -1,3 +1,5 @@
+Completed Course on Writing Javascript GitHub Actions from GitHub Learning Lab
+
 # Welcome to your course 🎉
 
 ### Getting started
